@@ -1,0 +1,17 @@
+{
+  "name": "hiera-cleaner",
+  "version": "0.0.1",
+  "description": "clean your hiera",
+  "main": "index.coffee",
+  "dependencies": {
+    "glob": "^5.0.5",
+    "js-yaml": "^3.3.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Peeters",
+  "license": "EUPL"
+}
